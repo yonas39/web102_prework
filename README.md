@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster CrowdFunding
 
-Submitted by: **Your Name Here**
+Submitted by: Yonas Mekonnen
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster CrowdFunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] CSS has been changed to improve the visual appearance of the website 
 
 ## Video Walkthrough
 
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
